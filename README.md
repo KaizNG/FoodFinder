@@ -1,5 +1,5 @@
 # [Food Finder]
-[![MIT License][license-img]][license] ![hiatus] ![changelog-img] [![Version][version-img]][changelog] [![Made With Python][python-img]][python]
+[![MIT License][license-img]][license] ![hiatus] [![changelog-img]][changelog] [![Version][version-img]][changelog] [![Made With Python][python-img]][python]
 
 This is a simple application coded in Python. Its main purpose is to decide where to eat for you.\
 *NOTE: This app will ask for your postal/zip code. Your location will not be logged or saved.*
