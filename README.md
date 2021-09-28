@@ -1,5 +1,5 @@
 # [Food Finder]
-[![MIT License][license-img]][license] ![Status] ![changelog-img] [![Version][version-img]][changelog] [![Made With Python][python-img]][python]
+[![MIT License][license-img]][license] ![hiatus] ![changelog-img] [![Version][version-img]][changelog] [![Made With Python][python-img]][python]
 
 This is a simple application coded in Python. Its main purpose is to decide where to eat for you.\
 *NOTE: This app will ask for your postal/zip code. Your location will not be logged or saved.*
@@ -13,7 +13,9 @@ This is a simple application coded in Python. Its main purpose is to decide wher
 [license-img]: https://img.shields.io/github/license/KaizNG/FoodFinder
 [license]: https://github.com/KaizNG/FoodFinder/blob/main/LICENSE
 
-[status]: https://img.shields.io/badge/status-Updating-009b31.svg
+[stopped]: https://img.shields.io/badge/status-Not%20Updating-red.svg
+[hiatus]: https://img.shields.io/badge/status-Hiatus-orange.svg
+[updating]: https://img.shields.io/badge/status-Updating-009b31.svg
 [version-img]: https://badge.fury.io/gh/KaizNG%2FFoodFinder.svg
 
 [changelog-img]: https://img.shields.io/badge/changelog-545454.svg
