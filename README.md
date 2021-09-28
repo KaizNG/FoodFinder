@@ -14,7 +14,7 @@ This is a simple application coded in Python. Its main purpose is to decide wher
 [license]: https://github.com/KaizNG/FoodFinder/blob/main/LICENSE
 
 [stopped]: https://img.shields.io/badge/status-Not%20Updating-red.svg
-[hiatus]: https://img.shields.io/badge/status-Hiatus-orange.svg
+[hiatus]: https://img.shields.io/badge/Status-On%20Hiatus-orange.svg
 [updating]: https://img.shields.io/badge/status-Updating-009b31.svg
 [version-img]: https://badge.fury.io/gh/KaizNG%2FFoodFinder.svg
 
